@@ -1,0 +1,3 @@
+D:/Diogo/VISAO_COMP/build/CMakeFiles/VISAO_COMP.dir
+D:/Diogo/VISAO_COMP/build/CMakeFiles/ALL_BUILD.dir
+D:/Diogo/VISAO_COMP/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+Regras de formatação do relatório
+a)	Tipo de letra: Arial com tamanho 11 pontos ou Times New Roman tamanho 12 pontos. Os títulos e subtítulos devem ser escritos a negrito;
+b)	Páginas de texto com impressão a preto;
+c)	Espaçamento do texto com 1,5 linhas;
+d)	Notas de pé -de -página com espaçamento de 1 linha. Utilização moderada com letra de tamanho 9 pontos e devem ser numeradas sequencialmente;
+e)	Margens: superior, inferior e direita 2,5 cm; margem esquerda de 2,5cm + 0,5 medianiz;
+f)	Número de página: (i) em numeração árabe em baixo centrado ou à direita; (ii) em algarismos romanos minúsculos, até aos índices inclusive e algarismos árabes as restantes, incluindo os anexos, correspondendo, deste modo, a página n.º 1 ao início do texto do trabalho (normalmente é atribuída à primeira página da introdução);
+g)	O início dos capítulos é apresentado na parte frontal de uma nova página (página ímpar).
+
+Nota: as orientações presentes neste documento são meramente sugestivas, devem sempre validar com o supervisor do estágio / diretor de curso.

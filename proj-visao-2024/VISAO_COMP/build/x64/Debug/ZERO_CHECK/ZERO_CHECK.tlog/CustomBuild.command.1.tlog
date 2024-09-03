@@ -1,0 +1,10 @@
+^D:\DIOGO\VISAO_COMP\BUILD\CMAKEFILES\3BB683D56907D7C2814D353BAA4D070F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Diogo/VISAO_COMP -BD:/Diogo/VISAO_COMP/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Diogo/VISAO_COMP/build/VISAO_COMP.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
